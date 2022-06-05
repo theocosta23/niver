@@ -1,0 +1,8 @@
+p a{
+    text-decoration: none;
+    color: #000;
+}
+
+p a:hover{
+    color: #6dd432;
+}
